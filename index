@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>المحامي/ة [اسمك]</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>المحامي/ة [اسمك]</h1>
+        <p>متخصص/ة في [مجال التخصص]</p>
+    </header>
+    <section id="services">
+        <h2>الخدمات القانونية</h2>
+        <ul>
+            <li>استشارات جنائية</li>
+            <li>قضايا الأسرة</li>
+            <li>التأسيس التجاري</li>
+        </ul>
+    </section>
+    <footer>
+        <p>اتصل بي: <a href="mailto:email@example.com">email@example.com</a></p>
+    </footer>
+</body>
+</html>
